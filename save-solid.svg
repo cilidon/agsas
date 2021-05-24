@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="svg">
+    <file>REM.png</file>
+    <file>save-solid.svg</file>
+  </qresource>
+</RCC>
