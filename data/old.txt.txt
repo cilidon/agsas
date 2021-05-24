@@ -1,0 +1,327 @@
+################################################################################################################################
+		Question: What is the role of a prototype program in problem solving?
+		Answer: To simulate the behaviour of portions of the desired software product. 
+
+3.5	[6]	High risk problems are address in the prototype program to make sure that the program is feasible.  A prototype may also be used to show a company that the software can be possibly programmed.
+5	[5]	To simulate portions of the desired final product with a quick and easy program that does a small specific job. It is a way to help see what the problem is and how you may solve it in the final project.
+4	[8]	A prototype program simulates the behaviors of portions of the desired software product to allow for error checking.
+5	[3]	Defined in the Specification phase a prototype stimulates the behavior of portions of the desired software product.  Meaning, the role of a prototype is a temporary solution until the program itself is refined to be used extensively in problem solving.
+3	[4]	It is used to let the users have a first idea of the completed program and allow the clients to evaluate the program. This can generate much feedback including software specifications and project estimations of the total project.
+2	[24]	To find problem and errors in a program before it is finalized
+2.5	[9]	To address major issues in the creation of the program. There is no way to account for all possible bugs in the program, but it is possible to prove the program is tangible. 
+5	[22]	you can break the whole program into prototype programs to simulate parts of the final program
+3.5	[23]	To provide an example or model of how the finished program should perfom. Provides forsight of some of the challanges that would be encountered. Provides opportunity To introduce changes To the finished program.
+5	[2]	Simulating the behavior of only a portion of the desired software product.
+5	[29]	A program that stimulates the behavior of portions of the desired software product.
+
+
+################################################################################################################################
+		Question: What stages in the software life cycle are influenced by the testing stage?
+		Answer: The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7) 
+
+5	[2]	Refining and Coding
+2.5	[29]	The second half of the Elaboration phase, Construction phase, and the Transition phase.
+3.5	[31]	The refining step, the production step, and the maintenance stage. 
+2	[12]	Elaboration, Construction, Transition
+3	[21]	Refining.
+1.5	[13]	The testing stage has a direct influence on the final version of a program, being as it is the debugging and finalization of a software revision.
+5	[11]	Directly: Refining, coding.  Because Refining is right before the Testing Phase and Coding is right after the Testing Phase. Indirectly: Production, Maintenance.  Because Refining occurs before these last two stages in the Software Life Cycle.
+3.5	[17]	Testing, refining, production, and maintenance.
+1.5	[7]	Depending on how the work is done, Testing is spread throughout the process as to prevent errors from showing up later on due to lack of foresight.
+2.5	[10]	Elaboration, construction, and transition.
+1.5	[27]	All stages are influenced except setting the program requirements.  If a test fails, it can change the whole design, implementation, etc of a program as well as the final outcome.
+
+
+
+################################################################################################################################
+		Question: What are the main advantages associated with object-oriented programming?
+		Answer: Abstraction and reusability.
+
+4.5	[6]	Modularability, the ability to reuse parts of the program later in another program sometimes with completely different goals for the program. Also it makes it easier to debug code by dividing up the code into classes that each do a specific job and when the program fails at one job you only have one class to debug. Good for security purposes because it allows you to let someone use a program which sorts lists without having to give them access to the source code. ALso allows you to use inheritance and polymorphism.
+5	[5]	This type of programming is more flexible, making it easier to add and modify the program.  It is also a type of a fail safe program, you check each individual module.  This eliminates redundant code and makes the program easier to read for other programmers.  When debugging the program it is easier to track down the source of a problem within a module rather than a 2 million line program.
+3.5	[8]	The main advantages to object-oriented programming are that existing classes can be reused and program maintenance and verification are easier.
+2.5	[3]	The advantages is that OOP allows us to build classes of objects.  Three principles that make up OOP are: Encapsulation- Objects combine data and operations. Inheritance- Classes can inherit properties from other classes. Polymorphism- Objects can determine appropriate operations at execution time.
+3.5	[4]	Some advantages are existing classes can be reused and program maintenance and verification are easier to accomplish.
+1	[24]	Object oriented programming allows programmers to use an object with classes that can be changed and manipulated while not affecting the entire object at once. The classes all hold attrubutes that affect the object.
+4	[9]	Reusable components, Extensibility, Maintainability, it reduces large problems into smaller more manageable problems.
+2.5	[22]	Encapsulation-objects combine data and operations Inheritance- classes can inherit properties from other classes Polymorphism- Objects can determine appropriate operations at execution time
+3	[23]	 -Easier to debugg  -Reusability
+4	[2]	Re-usability  and ease of maintenance
+5	[29]	  One of the main advantages is you can hide inner details a technique known by encapsulation. Objects combine the data and operations but you cannot see how it works.  Another advantage is you can reuse classes that have been defined earlier in the program, a method known as inheritance.  Finally another advantage is objects can determine appropriate operations at execution time a technique known as polymorphism.
+
+
+################################################################################################################################
+		Question: Where do C++ programs begin to execute?
+		Answer: At the main function.
+
+5	[6]	At function 'int main ()'
+5	[5]	the Function main().
+5	[8]	c++ programs begin to execute in the main method.
+5	[3]	A C++ program will begin to execute at the main() function.
+5	[4]	They begin in the main() function.
+5	[24]	Int main()
+5	[9]	main method
+0	[22]	in the testing phase
+5	[23]	-At the MAIN function
+5	[2]	main
+5	[29]	 They begin to execute at the funcion main().
+
+################################################################################################################################
+		Question: What is a variable?
+		Answer: A location in memory that can store a value.
+
+2	[6]	Variable can be a integer or a string in a program.
+4.5	[5]	In programming, a structure that holds data and is uniquely named by the programmer. It holds the data assigned to it until a new value is assigned or the program is finished.
+5	[8]	A variable is a location in memory where a value can be stored.
+5	[3]	Variable is a location in the computer's memory, in which a value can be stored and later can retrieve that value.
+5	[4]	A variable is a location in the computer's memory where a value can be stored for use by a program. Each variable has a name, a value, a type and a size.
+3.5	[24]	A named object that can hold a numerical or letter value
+4	[9]	It's a sybol or name for a value/number. Example: 'a_used_number' can stand for any given number, and the programmer can refer to that number by using the variable name.
+5	[22]	A variable is a location in the computers memory where a value can be stored for use by a program
+4	[23]	An identifier that holds a location in memory.
+5	[2]	a block of memory that holds a specific type of data
+5	[29]	It is a location in the computer's memory where it can be stored for use by a program.
+
+
+################################################################################################################################
+		Question: Where are variables declared in a C++ program?
+		Answer: Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+
+2	[6]	They can be declared right before they are used, but it is a good practice to declare them at the beginning of the program and label what they are food.
+3	[5]	In the Function main() before using the variable.
+5	[8]	Local variables are declared inside the method or function they will be used in at the beginning of the method. Global variables are declared outside of any function or method, generally before functions are defined.
+4.5	[3]	Variables are declared where ever it is defined either inside a block locally or outside a block globally.
+4	[4]	Variables are declared before they are actually used. They can be declared before main() to use globally
+2.5	[24]	For good programing practice they should be declared before main(), but should at least be declared before they are used.
+5	[9]	They can be declared globally just before the main method (but also outside of it)... or variables can be subject to only the method they're scoped within, but would still be declared at the beginning of that method (but inside of it).
+ 
+4	[1]	Variables are usually declared at the very beginning of a C++ program, but can be declared any in the program as long as they appear before they are called upon.
+2	[28]	Variables are declared in the main function, before any operation is  attempted with the variables.
+4.5	[15]	anywhere, but where you declare them depends on where you want them to be accessible (their scope)
+4.5	[14]	It depends if it's a global then they have to be declared out side the source code to be used in every scope however a local variable is one declared in a local function etc. which obviously doesn't need to be declared outside the variable seeing how it is used for the function or block its being called for. 
+
+
+################################################################################################################################
+		Question: What is the role of a prototype program in problem solving?
+		Answer: To simulate the behaviour of portions of the desired software product. 
+
+3.5	[6]	High risk problems are address in the prototype program to make sure that the program is feasible.  A prototype may also be used to show a company that the software can be possibly programmed.
+5	[5]	To simulate portions of the desired final product with a quick and easy program that does a small specific job. It is a way to help see what the problem is and how you may solve it in the final project.
+4	[8]	A prototype program simulates the behaviors of portions of the desired software product to allow for error checking.
+5	[3]	Defined in the Specification phase a prototype stimulates the behavior of portions of the desired software product.  Meaning, the role of a prototype is a temporary solution until the program itself is refined to be used extensively in problem solving.
+3	[4]	It is used to let the users have a first idea of the completed program and allow the clients to evaluate the program. This can generate much feedback including software specifications and project estimations of the total project.
+2	[24]	To find problem and errors in a program before it is finalized
+2.5	[9]	To address major issues in the creation of the program. There is no way to account for all possible bugs in the program, but it is possible to prove the program is tangible. 
+5	[22]	you can break the whole program into prototype programs to simulate parts of the final program
+3.5	[23]	To provide an example or model of how the finished program should perfom. Provides forsight of some of the challanges that would be encountered. Provides opportunity To introduce changes To the finished program.
+5	[2]	Simulating the behavior of only a portion of the desired software product.
+5	[29]	A program that stimulates the behavior of portions of the desired software product.
+
+
+################################################################################################################################
+		Question: What stages in the software life cycle are influenced by the testing stage?
+		Answer: The testing stage can influence both the coding stage (phase 5) and the solution refinement stage (phase 7) 
+
+5	[2]	Refining and Coding
+2.5	[29]	The second half of the Elaboration phase, Construction phase, and the Transition phase.
+3.5	[31]	The refining step, the production step, and the maintenance stage. 
+2	[12]	Elaboration, Construction, Transition
+3	[21]	Refining.
+1.5	[13]	The testing stage has a direct influence on the final version of a program, being as it is the debugging and finalization of a software revision.
+5	[11]	Directly: Refining, coding.  Because Refining is right before the Testing Phase and Coding is right after the Testing Phase. Indirectly: Production, Maintenance.  Because Refining occurs before these last two stages in the Software Life Cycle.
+3.5	[17]	Testing, refining, production, and maintenance.
+1.5	[7]	Depending on how the work is done, Testing is spread throughout the process as to prevent errors from showing up later on due to lack of foresight.
+2.5	[10]	Elaboration, construction, and transition.
+1.5	[27]	All stages are influenced except setting the program requirements.  If a test fails, it can change the whole design, implementation, etc of a program as well as the final outcome.
+
+
+
+################################################################################################################################
+		Question: What are the main advantages associated with object-oriented programming?
+		Answer: Abstraction and reusability.
+
+4.5	[6]	Modularability, the ability to reuse parts of the program later in another program sometimes with completely different goals for the program. Also it makes it easier to debug code by dividing up the code into classes that each do a specific job and when the program fails at one job you only have one class to debug. Good for security purposes because it allows you to let someone use a program which sorts lists without having to give them access to the source code. ALso allows you to use inheritance and polymorphism.
+5	[5]	This type of programming is more flexible, making it easier to add and modify the program.  It is also a type of a fail safe program, you check each individual module.  This eliminates redundant code and makes the program easier to read for other programmers.  When debugging the program it is easier to track down the source of a problem within a module rather than a 2 million line program.
+3.5	[8]	The main advantages to object-oriented programming are that existing classes can be reused and program maintenance and verification are easier.
+2.5	[3]	The advantages is that OOP allows us to build classes of objects.  Three principles that make up OOP are: Encapsulation- Objects combine data and operations. Inheritance- Classes can inherit properties from other classes. Polymorphism- Objects can determine appropriate operations at execution time.
+3.5	[4]	Some advantages are existing classes can be reused and program maintenance and verification are easier to accomplish.
+1	[24]	Object oriented programming allows programmers to use an object with classes that can be changed and manipulated while not affecting the entire object at once. The classes all hold attrubutes that affect the object.
+4	[9]	Reusable components, Extensibility, Maintainability, it reduces large problems into smaller more manageable problems.
+2.5	[22]	Encapsulation-objects combine data and operations Inheritance- classes can inherit properties from other classes Polymorphism- Objects can determine appropriate operations at execution time
+3	[23]	 -Easier to debugg  -Reusability
+4	[2]	Re-usability  and ease of maintenance
+5	[29]	  One of the main advantages is you can hide inner details a technique known by encapsulation. Objects combine the data and operations but you cannot see how it works.  Another advantage is you can reuse classes that have been defined earlier in the program, a method known as inheritance.  Finally another advantage is objects can determine appropriate operations at execution time a technique known as polymorphism.
+
+
+################################################################################################################################
+		Question: Where do C++ programs begin to execute?
+		Answer: At the main function.
+
+5	[6]	At function 'int main ()'
+5	[5]	the Function main().
+5	[8]	c++ programs begin to execute in the main method.
+5	[3]	A C++ program will begin to execute at the main() function.
+5	[4]	They begin in the main() function.
+5	[24]	Int main()
+5	[9]	main method
+0	[22]	in the testing phase
+5	[23]	-At the MAIN function
+5	[2]	main
+5	[29]	 They begin to execute at the funcion main().
+
+################################################################################################################################
+		Question: What is a variable?
+		Answer: A location in memory that can store a value.
+
+2	[6]	Variable can be a integer or a string in a program.
+4.5	[5]	In programming, a structure that holds data and is uniquely named by the programmer. It holds the data assigned to it until a new value is assigned or the program is finished.
+5	[8]	A variable is a location in memory where a value can be stored.
+5	[3]	Variable is a location in the computer's memory, in which a value can be stored and later can retrieve that value.
+5	[4]	A variable is a location in the computer's memory where a value can be stored for use by a program. Each variable has a name, a value, a type and a size.
+3.5	[24]	A named object that can hold a numerical or letter value
+4	[9]	It's a sybol or name for a value/number. Example: 'a_used_number' can stand for any given number, and the programmer can refer to that number by using the variable name.
+5	[22]	A variable is a location in the computers memory where a value can be stored for use by a program
+4	[23]	An identifier that holds a location in memory.
+5	[2]	a block of memory that holds a specific type of data
+5	[29]	It is a location in the computer's memory where it can be stored for use by a program.
+
+
+################################################################################################################################
+		Question: Where are variables declared in a C++ program?
+		Answer: Variables can be declared anywhere in a program. They can be declared inside a function (local variables) or outside the functions (global variables)
+
+2	[6]	They can be declared right before they are used, but it is a good practice to declare them at the beginning of the program and label what they are food.
+3	[5]	In the Function main() before using the variable.
+5	[8]	Local variables are declared inside the method or function they will be used in at the beginning of the method. Global variables are declared outside of any function or method, generally before functions are defined.
+4.5	[3]	Variables are declared where ever it is defined either inside a block locally or outside a block globally.
+4	[4]	Variables are declared before they are actually used. They can be declared before main() to use globally
+2.5	[24]	For good programing practice they should be declared before main(), but should at least be declared before they are used.
+5	[9]	They can be declared globally just before the main method (but also outside of it)... or variables can be subject to only the method they're scoped within, but would still be declared at the beginning of that method (but inside of it).
+ 
+4	[1]	Variables are usually declared at the very beginning of a C++ program, but can be declared any in the program as long as they appear before they are called upon.
+2	[28]	Variables are declared in the main function, before any operation is  attempted with the variables.
+4.5	[15]	anywhere, but where you declare them depends on where you want them to be accessible (their scope)
+4.5	[14]	It depends if it's a global then they have to be declared out side the source code to be used in every scope however a local variable is one declared in a local function etc. which obviously doesn't need to be declared outside the variable seeing how it is used for the function or block its being called for. 
+
+###############################################################################################################
+		Question: What is typically included in a class definition?
+		Answer:  Data members (attributes) and member functions.
+
+2	[6]	For us it is usually a set, get, and displayMessge or other messages that tell you what properties a class has but does not reveal its implementations. You could have anything you want in your own class definition.
+4	[5]	The attributes of said class. Also whether or not it is a subclass. Also whether it is public private or protected.
+5	[8]	Information telling the compiler what data members and member functions belong to the class.
+5	[3]	Since class is user defined, the body of the declaration can contain members, that can be either data or function declarations, and optionally access specifiers.  Example for specifiers would be public, private, and protected.  There is the keyword Class and the Class body is enclosed with brackets ({}). 
+2	[4]	An object and data.
+3	[9]	It's specific class name, includes only information defined by that class... implementation details... etc.
+5	[22]	data members and member functions.
+5	[23]	A class definition usually contains the function and its data members
+5	[2]	Data members and member functions
+3.5	[29]	member functions
+5	[31]	Member functions and data members belonging to the class.
+4.5	[12]	a public and private area that includes the functions and variables that are used in the class
+3.5	[21]	the keyword class followed by they class name, on the inside you declare public and private declarations of your class
+3	[13]	A class definition typically includes function definitions.
+5	[11]	It begins with Class, followed by the class name, then usually a constructor, data members and member functions that delineates the class is included in any class's definition.
+4.5	[17]	the data and methods 
+4.5	[7]	A constructor, functions, and variables that are accessible to by that class, and possibly other classes depending on how they are done.
+5	[10]	Member functions and data members.
+2.5	[27]	public section and private section, and there must be a semicolon to set the end
+
+
+###############################################################################################################
+		Question:  What is the difference between a data member and a local variable inside a member function?
+		Answer:  Data members can be accessed from any member functions inside the class defintion. Local variables can only be accessed inside the member function that defines them. y be used within the function, where as data members can be set to public access and can be used throughout
+4.5	[7]	The local variable is lost once it exits the block of code, while the data member is not.
+4.5	[10]	Every member function can access and modify a data member.<br>A local variable can only be used from the line of declaration to the next closing } before it is lost from memory.
+5	[27]	data member is accessible to all functions in the class, where local variable is only available to the member function and value is lost when function closes
+4.5	[25]	Data members are variables that are declared inside the class definition but outside of the bodies of the class member functions. Local variables can only be used within the function declaration.
+4	[20]	The data member can be accessed outside of the class, whereas the local variable cannot.
+5	[18]	Local variables cannot be used outside of that function body. When a function terminates the values of its local variables are lost. Where as data members are variables in a class definition, and they exist throughout the life of the object.<br>
+2	[19]	a local variable in a member function has to be static. a data member can change its value freely.
+5	[30]	a local variable is only useable within the function it is defined, whereas a data member is available to any method within its class
+5	[16]	Variable declared in a function defination's body cannot be used outside of that function.<br><br>Data members accessible only to member function of that class.
+4.5	[26]	data members <br><br>local variables are declared in a function definitionâ€™s body.<br>they Cannot be used outside of that function body.<br>When a function terminates, the values of its local variables are lost.<br><br><br>
+4.5	[1]	local variable is only available in the function.
+4.5	[28]	local variables are accessed inside member functions only while data members <br><br>can be accessed throughout the class
+5	[15]	A data member is accessible anywhere in the class, while i local variable in a member function is only accessible in that particular function, and is freed after the function exits.
+4	[14]	a Data member is encapsulated within a class or object,  it is static and can be shared by all instances of that class. <br>however local variable's are only used from the function or block in which it is declared and not the whole class. other wise they would be called global variables. 
+
+###############################################################################################################
+		Question:  What is the difference between a constructor and a function?
+		Answer: A constructor is called whenever an object is created, whereas a function needs to be called explicitely. Constructors do not have return type, but functions have to indicate a return type.
+
+2.5	[6]	 A constructor initializes an object or objects of a class.  A function of a class performs a task such as display a line of text or do some kind of mathematical operations.
+3	[5]	all constructors are functions but not all functions are constructors. Also functions can have nearly infinite purposes, while constructors always create an instance of whichever class you are using. You can change how a constructor does something but not what it does. With functions you can change not only the how but also the what.
+5	[8]	Unlike regular functions, constructors are only used to initialize an objectâ€™s data when it is created. Constructors must also be given the same name as the class and cannot return any values.<br>
+4.5	[3]	A constructor typically used to intialize data members and allocate resources, for instance memory, files, etc.  Also a constructor cannot return values.  Functions are operations that maybe globally defined.
+4	[4]	Constructors cannot return values, so they cannot specify a return type. Normally, constructors are declared public.
+3	[9]	A constructor is a method that starts new instances of a class. (Example: Employee employee1(parameters) starts a new instance of object of type Employee). A function is simply a module w/in a program that completes its single desired task.
+3.5	[22]	A constructor is called whenever a new object of that class is made.
+4	[23]	A constructor does not return any date and has no return type.<br><br>Functions can return date or not return data can have a return type.
+4	[2]	A constructor is automatically called whenever an instance of a class is created, a function must be explicitly called by the user. 
+4	[29]	constructors cannot return values, so they cannot specify a return type like functions can.
+3.5	[31]	A constructor is a function used to initialize an object's data when it is created.
+2.5	[12]	a constructor initialises everything so that nothing is left empty or with random varioubles and a function modifies those variables with data.
+3.5	[21]	A constructor initialized values at the execution of its instantiation. It provides default values.
+4	[13]	A constructor sets up the default values of variables when an object is instantiated, whereas a function allows interaction with that object.
+3	[11]	A constructor is used to create an object that can be employed in the main function of a program.  This may or may not execute code along with it.<br><br>A function is a set of code that executes when called, but does not create a new object.
+4	[17]	a constructor initializes data members but the functions actually perform tasks. Constructors cant return values either. 
+
+###############################################################################################################
+		Question: When does C++ create a default constructor?
+		Answer: If no constructor is provided, the compiler provides one by default. If a constructor is defined for a class, the compiler does not create a default constructor.
+
+5	[6]	The compiler creates a default constructor when we do not define one in our class file
+
+5	[13]	C++ will create a default constructor when no other constructor is present.
+5	[11]	When no constructor was specified in the constructor's class, but the class is instantiated in a program.
+5	[17]	When no constructor exists when one is needed, a parameterless default constructor is declared.
+5	[7]	The Compiler creates this automatically for you, unless you specifically create one.
+5	[10]	In any class that doesn't explicitly include a constructor.
+5	[27]	when no user-defined constructor exists
+5	[25]	If a class does not explicitly include a constructor, the compiler creates one.
+5	[20]	When you do not provide your own constructor.
+5	[18]	When a class does not explicitly include a constructor.
+5	[14]	at the very beginning when you run a complier, matter a fact in C++ it generates its own default constructor for the class provided if no other constructors have been provided by user
+
+###############################################################################################################
+		Question:  What is the difference between a function prototype and a function definition?
+		Answer: A function prototype includes the function signature, i.e., the name of the function, the return type, and the parameters' type. The function definition includes the actual body of the function. 
+
+4	[6]	A function definition does not require any additional information that needs to be passed inside its parenthesis<br> to execute. While a definition prototype requires more than one parameters to be passed in order to complete its task.
+2.5	[5]	The FUNCTION PROTOTYPE is where the programmer declares that he/she is using a function other than main( ). This is like declaring a variable, the programmer knows that he/she will be using in the future, but has yet to say where they are going to use it, or how. This is answers the question who, it gives the function a name and character. The function prototype, by common practice is placed at the beginning of the program after the #includes and before main( ).The FUNCTION DEFINITION is the guts of the function. This is where the programmer decides what the function is going to do and tells it how to do it. It takes whatever information it is given and performs the operations. It works sort of like the brain, the brain takes in input and based upon that input performs in some way producing an output. The function defintion is placed outside of main( ) and any other functions. A function is its own entity and should be thought of as such.
+5	[8]	A function prototype tells the compiler the function name, return type and the number and type of parameters without revealing the implementations contained in the function definition.
+3	[3]	Function prototype is a declaration.  Function definitions (w/multiple parameters) often require more than one piece of information. to perform their tasks.
+5	[4]	A function prototype is a declaration of a function that tells the compiler the function's name, its return type and the types of its parameters.
+4.5	[9]	A prototype shows only return types and necessary parameters. The definition includes names for those parameters and defines what the object is actually capable of doing.
+4.5	[22]	prototype only tells the user what data types go into a function and what type is returned.
+4.5	[23]	Function prototype is located in the .h file and only contains the access function name and paramater type.<br><br>Function definition contains the code for the function to perform its activity.
+4	[2]	a function prototype is used to reference the compiler to a function that will be defined later on, a function definition is the actual function itself, complete with return type, parameters, etc...
+4.5	[29]	A function prototype describes a class's public interface without revealing the class's member function implementations
+2	[31]	Function definitions are just that, the definition. The prototype is what the compiler uses to check that calls to function are correct.
+3	[12]	a prototype does not include any actual code where the function has all the code that is executed in the program.
+
+###############################################################################################################
+		Question: What is the role of a header-file?
+		Answer: To store a class interface, including data members and member function prototypes.
+
+4.5	[6]	the role of a header file list all the functions a class can do while hiding the inner workings of its functions<br>
+3	[5]	The main role of header file is it is used to share information among various files.
+3.5	[8]	Header files separate files in which classes are defined and allow the compiler to recognize classes when used elsewhere.
+0	[3]	No
+3.5	[4]	A header file consists of "reusable" source code such as a class in a file that by convention has a .h filename extension. This differs from .cpp files that contain "source-code."
+4.5	[9]	To provide information about the contents of a library. It includes the definition of classes, declarations of functions, data types, and constants.
+4.5	[22]	the header file shows the user what types go into and come out of a function but does not allow a user to manipulate the actual code for the function.
+3.5	[23]	Header files declares the class member functions.
+4	[2]	A header file allows for the separation of declaration and implementation into separate files. 
+1.5	[29]	the header file has access to the C++ Standard Library and makes certain classes like class string work.
+2.5	[31]	Instruct the compiler on how to interface with library and user-written components.
+
+4	[19]	A header file declares a class, its data, and functions available through that class.
+3	[30]	header files contain code which can be used in multiple files
+3	[16]	Allow compiler to recognize the classes when used elsewhere
+3.5	[26]	Allow compiler to recognize the classes when used elsewhere<br>
+3	[1]	To promote function reusuablitly
+3	[28]	class definitions are placed here
+4.5	[15]	A header file usually contains class and/or function prototypes.
+1	[14]	contains all the standard C++ library's i.e. string 
